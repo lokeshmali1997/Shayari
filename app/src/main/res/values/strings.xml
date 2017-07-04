@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Shayari</string>
+
+    <string-array name="str">
+
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Funny</item>
+        <item>Friendship</item>
+        <item>Brithday</item>
+        <item>Romantic</item>
+        <item>Motivation</item>
+    </string-array>
+    <string-array name="listster">
+
+        <item>Shayari 1</item>
+        <item>Shayari 2</item>
+        <item>Shayari 3</item>
+        <item>Shayari 4</item>
+        <item>Shayari 5</item>
+        <item>Shayari 6</item>
+        <item>Shayari 7</item>
+        <item>Shayari 8</item>
+
+    </string-array>
+</resources>
